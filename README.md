@@ -1,5 +1,6 @@
-# CPSC535-SP21-Project2
-Cumulative Frequencies 
+# Cumulative Frequencies 
+
+CPSC535-SP21-Project2
 
 In this project we design and implement one algorithm related to strings.
 
